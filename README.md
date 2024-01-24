@@ -1,4 +1,4 @@
-# <h1 align="center">Hi &#9996; I'm sinhngocdo, I am game developer !!</p>
+# <h1 align="center">Hi &#9996; I'm sinhngocdo, I am software developer !!</p>
 
 <p align="center">
 	<a href="https://github.com/sinhngocdo">
