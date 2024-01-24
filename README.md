@@ -11,12 +11,12 @@
 ```JS
   const getAboutMe = () =>{
       return {
-        basicLanguage: "C++, Java, Python",
-        mainLanguage:"Javascript, Typescript",
-        frontend:"Reactjs, Boostrap, Material-ui...",
-        backend:"Nodejs, ExpressJs, NestJs",
-        database:"Mysql, Firebase",
-        learning:"Docker, MongoDB ....",
+        basicLanguage: "C++, C#, Python, Javascript",
+        mainLanguage:"C#",
+        frontend: "Angular, Boostrap,...",
+        backend: "Restful API",
+        database: "SqlServer, Firebase",
+        
       }
   }
 ```
